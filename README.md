@@ -17,4 +17,5 @@ Simulation testbenches are included to provide clock/reset generation, memory in
 
 ## Documentation
 
-A detailed explanation of the design and lab context is available in the DOC file in 2-Bus-Multi-Cycle-CPU.pdf
+A detailed explanation of the design and lab context is available here:
+[2-Bus-Multi-Cycle-CPU.pdf](https://github.com/AhmadTIM/2-BUS-MultiCycle-CPU/blob/main/DOC/2-Bus-Multi-Cylce-CPU.pdf)
