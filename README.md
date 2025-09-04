@@ -1,1 +1,1 @@
-# 2-BUS-MultiCycle-CPU
+# 2-BUS-Multi-Cycle-CPU
